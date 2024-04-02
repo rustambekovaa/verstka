@@ -1,0 +1,277 @@
+@import url('https://fonts.googleapis.com/css2?family=Kodchasan:wght@200;300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Kodchasan', sans-serif;
+    font-style: normal;
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    background: #F4F2DD;
+}
+
+.container {
+    max-width: 1668px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.btn {
+    background: #B2AE7F;
+    border-radius: 5px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+    padding: 18px 22px;
+    border: none;
+}
+
+img{
+    width: 100%;
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 82px 0;
+}
+
+.navigation .logo>a {
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 52px;
+    color: #000000;
+}
+
+.navigation nav>a {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.navigation nav {
+    display: flex;
+    align-items: center;
+    gap: 118px;
+}
+
+.home{
+    margin-bottom: 303px;
+}
+
+.home__item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.home__text {
+    width: 647px;
+}
+
+.home__text>h1 {
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 83px;
+    color: #000000;
+    margin-bottom: 80px;
+}
+
+.home__text>p {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+    margin-bottom: 63px;
+}
+
+.btns>.home__btn {
+    background: transparent;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.ourProduct__item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #000000;
+    padding: 12px 0;
+    flex-wrap: wrap;
+}
+
+.ourProduct__text {
+    max-width: 947px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.ourProduct__text .ourProduct__info {
+    width: 407px;
+}
+
+.ourProduct__text .ourProduct__info>p {
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: right;
+    color: #000000;
+}
+
+
+.ourProduct__image img{
+    width: 100%;
+}
+
+.ourProduct__text--left{
+    justify-content: flex-start;
+}
+
+.ourProduct__text--left .ourProduct__info>p{
+    text-align: start;
+}
+.line{
+    color: #B2AE7F;
+    width: 1668.71px;
+    height: 0px;
+    left: 123.68px;
+    top: 109.93px;
+    margin-top: 109px;
+    border: 1px solid #1916168b;
+    
+}
+.lie{
+    color: #B2AE7F;
+    width: 1668.71px;
+    height: 0px;
+    left: 123.68px;
+    top: 109.93px;
+    margin-top: 27px;
+    border: 1px solid #1916168b;
+    
+}
+
+
+.produc>h3{
+    margin-top: 95px;
+    font-family: 'Kodchasan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 52px;
+    text-align: center;
+    color: #000000;
+    
+}
+.produc>p{
+    text-align: center;
+    font-family: 'Slabo 13px';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    margin-top: 35px;
+    color: #000000;
+
+}
+
+
+
+
+
+.pro{
+
+    display: flex;
+    justify-content: space-between;
+    margin-top: 13px;
+    
+    
+}
+.produc__img>img{
+    width: 100%px;
+    height: 354.86px;
+    left: 125.64px;
+    top: 433.93px;
+
+    background: url(image.png);
+    border-radius: 5px;
+}
+.pri{
+    width: 355.34px;
+    height: 183.21px;
+    left: 125.64px;
+    top: 765.64px;
+
+    background: #CCC9A3;
+    border-radius: 5px;
+    padding-top: -5px 0px;
+}
+.price{
+    justify-content: space-between;
+    display: flex;
+    padding-top: 20px;
+ }
+
+ .price>h3{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+
+    color: #000000;
+    padding-left: 11px;
+ }
+
+ .price>h4{
+    padding-right: 10px;
+ }
+
+.pri>p{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    padding-left: 11px;
+   padding-top: 5px;
+    text-transform: capitalize;
+    
+}
+
+
+.btns__k{
+    width: 334px;
+    height: 42px;
+    left: 137px;
+    top: 895px;
+    margin-top: 35px;
+    margin-left: 11px;
+    background: #B2AE7F;
+    border-radius: 5px;
+}
+/*.image{
+    display: flex;
+    justify-content: space-between;
+    gap: 17px;
+    
+}
+.image2>img{
+    width: 545.77px;
+    height: 906.43px;
+    left: 123.68px;
+    top: 86.79px;
+    padding-top: 17px;
+
+    background: url(image.png);
+    border-radius: 5px;
+}
+*/
+.bgimage{
+    ba
+}

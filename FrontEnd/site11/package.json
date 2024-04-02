@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "i": "^0.3.7",
+    "node-sass": "^9.0.0",
+    "sass": "^1.66.1"
+  },
+  "name": "package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass -watch -i index.scss -o ."
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

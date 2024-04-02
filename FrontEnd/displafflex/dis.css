@@ -1,0 +1,28 @@
+.flexBox{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.box{
+    width: 300px;
+    height: 300px;
+
+}
+.box1{
+    background-color: rgb(232, 28, 137);
+}
+.box2{
+    background-color: rgb(229, 255, 0);
+}
+.box3{
+    background-color: rgb(225, 133, 29);
+    display: block;
+}
+.box4{
+    background-color: rgb(20, 47, 220);
+}
+.box5{
+    background-color: aqua;
+}

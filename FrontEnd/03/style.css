@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(26, 187, 26);
+}
+
+
+.forma{
+    width: 800px;
+    background-color: rgb(246, 62, 1);
+    padding: 30px;
+    margin: 0 auto;
+    text-align: center;
+    color: aliceblue;
+}
+input{
+    width: 740px;
+    /* padding: 8px;
+    margin: 10px; */
+}  
+.print{
+   
+    width: 600px;
+    background-color: aliceblue;
+    padding: 40px;
+    margin: 40px;
+    /* text-align: center; */
+    color: black;
+}
+
+
+
+.hello{
+    width: 350px;
+    background-color: rgba(240, 248, 255, 0.797);
+    padding: 50px;
+    margin: 50px;
+    align-items: end;
+}
+
+
+.form{
+    width: 400px;
+    display: block;
+    margin-top:10;
+}

@@ -1,0 +1,182 @@
+.print{
+    background-color: blue;
+   
+}
+
+.led{
+    background-color: brown;
+    width: 150px;
+    text-decoration: double;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aqua;
+    font-size: 30px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 120%;
+    
+}
+.ed{
+    background-color: rgb(85, 21, 205);
+    width: 150px;
+    text-decoration: solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(15, 14, 14);
+    font-size: 15px;
+    font-weight: 600;
+    font-style: oblique;
+    line-height: 220%;
+    border-radius: 120%;
+    align-self: center;
+    margin-left: 120px;
+    
+}
+.int{
+    background-color: blueviolet;
+    width: 750px;
+    padding: 50px;
+    display: inline-block;
+
+}
+.ld{
+    background-color: rgb(21, 205, 61);
+    width: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(253, 247, 247);
+    font-size: 15px;
+    font-weight: 600;
+    font-style: oblique;
+    line-height: 190%;
+    border-radius: 20%;
+    align-self: center;
+    padding: 15px;
+    margin-left: 120px;
+    margin-bottom: 50px;
+}
+    
+
+.edl{
+    background-color: rgb(234, 120, 21);
+    width: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(46, 33, 87);
+    font-size: 10px;
+    font-weight: 400px;
+    font-style: oblique;
+    line-height: 90%;
+    border-radius: 40%;
+    align-self: center;
+    padding: 15px;
+    margin-left: 70px;
+    margin-bottom: 30px;
+}
+    
+
+.le{
+    background-color: rgb(209, 236, 9);
+    width: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 28px;
+    font-weight: 400px;
+    font-style:  oblique;
+    line-height: 90%;
+    border-radius: 0%;
+    align-self: center;
+    padding: 15px;
+    margin-left: 110px;
+    margin-bottom: 30px;
+}
+
+
+.lde{
+    background-color: rgb(236, 9, 9);
+    width: 150px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 400px;
+    font-style: oblique;
+    line-height: 90%;
+    border-radius: 15%;
+    align-self: center;
+    padding: 15px;
+    margin-left: 110px;
+    margin-bottom: 30px;
+}
+.dle{
+    background-color: rgba(224, 210, 220, 0.612);
+    width: 150px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-weight: 400px;
+    font-style: oblique;
+    line-height: 90%;
+    border-radius: 15%;
+    align-self: center;
+    padding: 15px;
+    
+}
+
+.h4{
+    align-self: center;
+    padding: 500px;
+}
+.di{
+    background-color: rgb(25, 209, 102);
+    
+}
+.tu{
+    background-color: black;
+}
+.ut{
+    background-color: aqua;
+}
+.du{
+    background-color: blue;
+}
+*{
+    margin: 0 ;
+}
+.prin{
+    padding: 100px;
+    background: rgb(101, 192, 22);
+    height: 50px;
+    width: 850px;
+    text-align: center;
+}
+
+.pri{
+    padding: 100px;
+    background: rgb(87, 22, 192);
+    height: 25px;
+    width: 425px;
+    text-align: center;
+}
+.pr{
+    padding: 100px;
+    background: rgb(155, 68, 7);
+    height: 25px;
+    width: 425px;
+    text-align: center;
+
+}
+.p{
+    padding: 100px;
+    background: rgb(218, 229, 22);
+    height: 25px;
+    width: 425px;
+    text-align: center;
+}
+.r{
+    padding: 100px;
+    background: rgb(39, 191, 233);
+    height: 25px;
+    width: 425px;
+    text-align: center;
+}
+.i{
+    padding: 100px;
+    background: rgb(192, 22, 22);
+    height: 25px;
+    width: 425px;
+    text-align: center;
+}

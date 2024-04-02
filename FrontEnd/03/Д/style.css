@@ -1,0 +1,84 @@
+body{
+background-color: aqua;
+}
+.print{
+    align-items: end;
+    width: 300px;
+    background-color: rgb(102, 129, 212);
+    padding: 50px;
+    margin: 0 auto;
+   
+    color: aliceblue;
+}
+.form{
+    width: 400px;
+    display: block;
+    margin-top:10;
+}
+.top{
+    width: 280px;
+    padding: 5px;
+    margin: 8px;
+    border-radius: 15%;
+    
+    writing-mode: horizontal-tb !important;
+    border-color: rgb(133, 133, 133);
+    border-image: initial;
+}
+.button{
+    background-color:rgb(102, 129, 212);
+    width: 280px;
+    padding: 5px;
+    margin: 8px;
+    border-radius: 15%;
+    border-color: rgb(254, 254, 254);
+    border-top-color: aliceblue;
+}
+.put{
+        align-items: end;
+        width: 150px;
+        background-color: rgb(102, 129, 212);
+        padding: 30px;
+        margin: 40px;
+       
+        color: aliceblue;
+}
+.pop{
+    width: 140px;
+    padding: 2.5px;
+    margin: 4px;
+    border-radius: 7%;
+}
+.class{
+    background-color:rgb(102, 129, 212);
+    width: 140px;
+    padding: 5px;
+    margin: 8px;
+    border-radius: 15%;
+    border-color: rgb(254, 254, 254);
+    border-top-color: aliceblue;
+}
+
+.input {
+    align-items: end;
+    width: 300px;
+    background-color: rgb(72, 209, 83);
+    padding: 30px;
+    margin: 40px;
+   
+    color: rgb(0, 0, 0);
+}
+.op{
+    width: 300px;
+    padding: 5px;
+    margin: 4px;
+    border-radius: 7%;
+    border-color: ;
+}
+.in{
+    width: 310px;
+    padding: 5px;
+    margin: 4px;
+    border-radius: 7%;
+    border-color: black;
+}

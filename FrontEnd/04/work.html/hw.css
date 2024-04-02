@@ -1,0 +1,46 @@
+body{
+    background-color: antiquewhite;
+}
+.if{
+    width: 590px;
+    align-items: end;
+    padding: 55px;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+   
+}
+.ooo{
+    color: #000000;
+    margin:0 auto;
+}
+
+.or{
+    width: 150px;
+    padding: 5px;
+    margin: 15px;
+    border-color: rgba(0, 0, 0, 0.238);
+}
+.br{
+    width: 477px;
+    color: rgb(0, 255, 47);
+    border-color: rgba(0, 0, 0, 0.238);
+}
+b{
+    color: rgb(0, 255, 68);
+}
+.OL{
+    width: 300px;
+}
+.int{
+    width: 6000px;
+    align-items: end;
+    padding: 50px;
+    margin: 65px;
+    background-color: rgb(172, 62, 62);
+   
+}
+
+.uuu{
+    width: 400px;
+    padding: 45px;
+}

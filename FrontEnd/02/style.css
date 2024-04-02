@@ -1,0 +1,41 @@
+table{
+    border:2px solid #000;
+   
+    margin: 40px;
+
+}
+.text{
+    margin: 40px;
+}
+.print{
+    margin: 40px;
+    border-collapse: collapse;
+    
+}
+.hello{
+    margin: 40px;
+}
+table td{
+    border: 2px solid #000;
+}
+.ppp{
+    background-color: aqua;
+}
+.ppk{
+    background-color: #e31616;
+}
+.rrrr{
+    background-color: rgb(229, 1, 225);
+}
+.baa{
+    background-color:#1fad23 ;
+}
+table th {
+    border: 2px solid #000;
+}
+.rrr{
+    background-color: #2e16e3;
+}
+.iii{
+    margin: 40;
+}

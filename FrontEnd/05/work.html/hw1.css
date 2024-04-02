@@ -1,0 +1,35 @@
+body{
+    background-color: blue;
+}
+.top{
+    padding: 20px;
+    width: 750px;
+    background-color: blanchedalmond;
+    text-align: center;
+    
+}
+.pop{
+    color: rgb(2, 22, 22);
+    font-size: 40px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 120%;
+    text-align: center;
+    
+}
+.pot{
+    width: 150px;
+    background-color: rgb(223, 154, 35);
+}
+.ot{
+    width: 150px;
+    background-color: rgb(104, 10, 219);
+}
+.pt{
+    width: 150px;
+    background-color: rgb(215, 28, 147);
+}
+.try{
+    width: 700px;
+    height: 250px;
+}
